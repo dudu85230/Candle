@@ -19,7 +19,7 @@ Build requirements:
 ------------------
 Qt 5.4.2 with MinGW/GCC compiler
 
-Downloads:
+Downloads: 
 ----------
 Experimental versions:
 
